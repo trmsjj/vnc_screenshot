@@ -1,0 +1,11 @@
+*.suo
+bin
+obj
+*.ncb
+*.user
+[Dd]ebug
+[Rr]elease
+*.bak
+Thumbs.db
+smysrv
+symsrv.dll
